@@ -1,0 +1,10 @@
+C:\Users\saadz\source\repos\calculator 2\calculator 2\bin\Debug\calculator 2.exe.config
+C:\Users\saadz\source\repos\calculator 2\calculator 2\bin\Debug\calculator 2.exe
+C:\Users\saadz\source\repos\calculator 2\calculator 2\bin\Debug\calculator 2.pdb
+C:\Users\saadz\source\repos\calculator 2\calculator 2\obj\Debug\calculator 2.csproj.AssemblyReference.cache
+C:\Users\saadz\source\repos\calculator 2\calculator 2\obj\Debug\calculator_2.Form1.resources
+C:\Users\saadz\source\repos\calculator 2\calculator 2\obj\Debug\calculator_2.Properties.Resources.resources
+C:\Users\saadz\source\repos\calculator 2\calculator 2\obj\Debug\calculator 2.csproj.GenerateResource.cache
+C:\Users\saadz\source\repos\calculator 2\calculator 2\obj\Debug\calculator 2.csproj.CoreCompileInputs.cache
+C:\Users\saadz\source\repos\calculator 2\calculator 2\obj\Debug\calculator 2.exe
+C:\Users\saadz\source\repos\calculator 2\calculator 2\obj\Debug\calculator 2.pdb
